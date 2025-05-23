@@ -1,5 +1,3 @@
----
-
 ## M Creative Compound
 
 M Creative Compound is an official web app for a creative agency, built using Next.js and TypeScript. This application serves as the digital portfolio and service hub for M Creative Compound, showcasing creative projects, client services, and agency information.
@@ -30,5 +28,3 @@ M Creative Compound is an official web app for a creative agency, built using Ne
 - Next.js
 - TypeScript
 - SCSS/CSS
-
----
